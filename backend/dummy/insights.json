@@ -1,0 +1,37 @@
+{
+"1": {
+"summary": "This area shows a high concentration of reported incidents, with theft being the most common issue. Harassment, suspicious activity, and several assault reports indicate elevated nighttime safety concerns. Activity is concentrated during evening and late-night hours.",
+"recommended_action": "Stay in well-lit areas, secure personal belongings, and avoid distractions when walking at night.",
+"risk_level": "moderate"
+},
+"2": {
+"summary": "The hotspot experiences frequent theft incidents alongside harassment and suspicious activity reports. Most reports occur during commuting and evening periods, suggesting increased risk around transit traffic.",
+"recommended_action": "Keep valuables out of sight, remain alert near transit entrances, and travel with others when possible after dark.",
+"risk_level": "moderate"
+},
+"3": {
+"summary": "Harassment is the most frequently reported issue in this location, with additional assault and suspicious activity reports. Overall severity is lower than other hotspots but recurring incidents indicate ongoing concerns.",
+"recommended_action": "Use populated paths, remain aware of surroundings, and avoid isolated areas during late evening hours.",
+"risk_level": "moderate"
+},
+"4": {
+"summary": "This hotspot records a balanced mix of theft, harassment, assault, and suspicious activity incidents. The average severity is relatively elevated, indicating consistent safety concerns throughout the area.",
+"recommended_action": "Exercise caution during evening travel, keep belongings secured, and avoid poorly populated streets after dark.",
+"risk_level": "moderate"
+},
+"5": {
+"summary": "Theft remains the dominant issue, with several assault and suspicious activity reports contributing to overall risk. Incident patterns suggest both daytime property crime and nighttime personal safety concerns.",
+"recommended_action": "Maintain situational awareness, avoid displaying valuables, and consider using busier routes when walking.",
+"risk_level": "moderate"
+},
+"6": {
+"summary": "Reports are distributed across harassment, theft, and suspicious activity, with no single category overwhelmingly dominant. Severity remains moderate, indicating recurring but generally manageable safety issues.",
+"recommended_action": "Stay aware in crowded areas, monitor personal belongings, and report suspicious behavior promptly.",
+"risk_level": "moderate"
+},
+"7": {
+"summary": "This location has the highest average severity score among the hotspots. Theft, harassment, assault, and suspicious activity collectively create a higher-risk environment, particularly during evening hours.",
+"recommended_action": "Avoid traveling alone late at night, stay in well-trafficked areas, and use secure transportation options when possible.",
+"risk_level": "high"
+}
+}

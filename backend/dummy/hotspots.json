@@ -1,0 +1,65 @@
+[
+{
+"id": "1",
+"name": "Times Square Theft Hotspot",
+"lat": 40.757695,
+"lng": -73.985645,
+"report_count": 22,
+"dominant_incident": "theft",
+"severity_score": 1.95
+},
+{
+"id": "2",
+"name": "Penn Station Theft Hotspot",
+"lat": 40.750778,
+"lng": -73.997072,
+"report_count": 18,
+"dominant_incident": "theft",
+"severity_score": 1.89
+},
+{
+"id": "3",
+"name": "Central Park Harassment Hotspot",
+"lat": 40.7853,
+"lng": -73.968517,
+"report_count": 12,
+"dominant_incident": "harassment",
+"severity_score": 1.75
+},
+{
+"id": "4",
+"name": "SF Market Street West Theft Hotspot",
+"lat": 37.783643,
+"lng": -122.408629,
+"report_count": 14,
+"dominant_incident": "theft",
+"severity_score": 2.0
+},
+{
+"id": "5",
+"name": "SF Market Street East Theft Hotspot",
+"lat": 37.78803,
+"lng": -122.40782,
+"report_count": 10,
+"dominant_incident": "theft",
+"severity_score": 1.9
+},
+{
+"id": "6",
+"name": "Chicago Loop East Harassment Hotspot",
+"lat": 41.882722,
+"lng": -87.6233,
+"report_count": 9,
+"dominant_incident": "harassment",
+"severity_score": 1.89
+},
+{
+"id": "7",
+"name": "Chicago Loop West Theft Hotspot",
+"lat": 41.878943,
+"lng": -87.635786,
+"report_count": 7,
+"dominant_incident": "theft",
+"severity_score": 2.14
+}
+]
