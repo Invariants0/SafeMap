@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: safemap-backend
+    runtime: python
+    pythonVersion: 3.11
+    rootDir: backend
+    buildCommand: uv sync
+    startCommand: uv run uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        scope: run
+        # Set this in Render dashboard under Environment variables
+      - key: DATABASE_URL
+        scope: run
+        # Optional: Use PostgreSQL on Render instead of SQLite for production
+      - key: FRONTEND_URL
+        scope: run
+        value: https://safemap-evorozon.vercel.app
+      - key: USE_DUMMY_DATA
+        scope: run
+        value: "false"
